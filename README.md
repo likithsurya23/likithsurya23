@@ -46,14 +46,8 @@
   </a> 
 </p>
 
-<p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=likithsurya23&show_icons=true&locale=en&layout=compact" alt="Top Languages by Likith D" />
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=likithsurya23&show_icons=true&locale=en&layout=compact" alt="likithsurya23" /></p>
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=likithsurya23&show_icons=true&locale=en" alt="Likith D's GitHub Stats" />
-</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=likithsurya23&show_icons=true&locale=en" alt="likithsurya23" /></p>
 
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=likithsurya23&" alt="Likith D's GitHub Streak Stats" />
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=likithsurya23&" alt="likithsurya23" /></p>
