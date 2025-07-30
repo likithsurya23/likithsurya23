@@ -18,7 +18,7 @@
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 <p>
-      "I am a CSE student passionate about front-end development. I love designing intuitive and visually appealing web interfaces. I am always eager to explore new technologies and enhance user experiences through creative and effective design."
+      "Passionate full-stack developer with expertise in React, Next.js, Node.js, and Python. I build scalable web apps, AI-powered tools, and cloud-integrated solutions using platforms like OpenAI and IBM Watson. Experienced in API development, data handling, and real-time IoT applications. Always exploring innovative ways to solve real-world problems through technology."
 </p>
 
 ---
