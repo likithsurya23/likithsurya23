@@ -1,90 +1,60 @@
 # Hi I'm Likith! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
-<p align="center">
-<a href="https://twitter.com/SaintxL12" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="SaintXl12" height="30" width="30" />
-</a>&nbsp;
 
-<a href="https://linkedin.com/in/likith--d" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="likith--d" height="30" width="30" />
-</a>&nbsp;
-
-<a href="https://www.instagram.com/__likith_surya" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="__likith_surya" height="30" width="30" />
-</a>
-
-</p>
-
-![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
-
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me
 <p>
-      "Passionate full-stack developer with expertise in React, Next.js, Node.js, and Python. I build scalable web apps, AI-powered tools, and cloud-integrated solutions using platforms like OpenAI and IBM Watson. Experienced in API development, data handling, and real-time IoT applications. Always exploring innovative ways to solve real-world problems through technology."
+    Passionate full-stack developer with expertise in React, Next.js, Node.js, and Python. I build scalable web apps, AI-powered tools, and cloud-integrated solutions using platforms like OpenAI and IBM Watson. Experienced in API development, data handling, and real-time IoT applications. Always exploring innovative ways to solve real-world problems through technology.
 </p>
 
 ---
-### <img src="https://tse4.mm.bing.net/th?id=OIP.yp9GRKMmpiqMIpYHJY6tJwHaHa&pid=Api&P=0&h=180" width="45" /> Skills:
-<p align="center">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" style="margin: 5px;" />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="margin: 5px;" />
-  </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40" style="margin: 5px;" />
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" style="margin: 5px;" />
-  </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40" style="margin: 5px;" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" style="margin: 5px;" />
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="margin: 5px;" />
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" style="margin: 5px;" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="margin: 5px;" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style="margin: 5px;" />
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="margin: 5px;" />
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" style="margin: 5px;" />
-  </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40" style="margin: 5px;" />
-  </a>
-</p>
 
-
----
-### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats:
+### 🌐 Socials
 <div align="center">
-  <div style="width: 150px; border: 1px solid #ffffff; border-radius: 8px; background-color: #000000; padding: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); margin: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=likithsurya23&show_icons=true&locale=en&bg_color=000000&text_color=ffffff" alt="Likith's GitHub status" style="width: 50%; height: auto;" />
-  </div>
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/likith--d) &nbsp;
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/SaintxL) &nbsp;
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:likithsurya555@gmail.com)
 
-  <div style="width: 100px; border: 1px solid #ffffff; border-radius: 8px; background-color: #000000; padding: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); margin: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=likithsurya23&show_icons=true&locale=en&layout=compact&bg_color=000000&text_color=ffffff" alt="Likith's top languages" style="width: 50%; height: auto;" />
-  </div>
-
-  <div style="width: 150px; border: 1px solid #ffffff; border-radius: 8px; background-color: #000000; padding: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); margin: 10px;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=likithsurya23&theme=dark" alt="Likith's GitHub streak" style="width: 50%; height: auto;" />
-  </div>
-</div>
 </div>
 
 ---
 
-### <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width ='29' /> Here's some humor for you:
-<img src="https://readme-jokes.vercel.app/api" alt="Error fetching resource, Refresh again to view Jokes Card" width = '11000' />
+### 💻 Technical Skills
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
+---
+### 📊 GitHub Stats
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=likithsurya23&theme=radical&hide_border=false&include_all_commits=false&count_private=false" height="150" />
+  
+  <img src="https://nirzak-streak-stats.vercel.app/?user=likithsurya23&theme=radical&hide_border=false" height="150" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=likithsurya23&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="150" />
+
+</div>
+
+---
+### 🏆 GitHub Trophies
+<div align="center">
+  
+![](https://github-profile-trophy.vercel.app/?username=likithsurya23&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+</div>
+
+---
+### ✍️ Random Dev Quote
+<div align ="center">
+  
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+</div>
+
+---
+### 🔝 Top Contributed Repo
+<div align="center">
+  
+![](https://github-contributor-stats.vercel.app/api?username=likithsurya23&limit=5&theme=radical&combine_all_yearly_contributions=true)
+
+[![](https://visitcount.itsvg.in/api?id=likithsurya23&icon=0&color=0)](https://visitcount.itsvg.in)
+
+</div>
