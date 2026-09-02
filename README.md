@@ -1,60 +1,118 @@
-# Hi I'm Likith! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
+<div align="center">
 
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me
+<!-- Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=header" width="100%" />
+
+<br>
+
+<!-- Animated Name -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=34&duration=3000&pause=1200&color=00F0FF&center=true&vCenter=true&width=700&height=65&lines=Hi%2C+I'm+Likith+D+%F0%9F%91%8B" alt="Hi, I'm Likith D" />
+
+<br>
+
+<!-- Static Role -->
+<h3>Software Engineer · Full-Stack Developer · AI/ML</h3>
+
+<br>
+
+<!-- Social Links -->
 <p>
-    Passionate full-stack developer with expertise in React, Next.js, Node.js, and Python. I build scalable web apps, AI-powered tools, and cloud-integrated solutions using platforms like OpenAI and IBM Watson. Experienced in API development, data handling, and real-time IoT applications. Always exploring innovative ways to solve real-world problems through technology.
+  <a href="https://www.linkedin.com/in/likith--d" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://x.com/SaintxL" target="_blank">
+    <img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:likithsurya555@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
----
-
-### 🌐 Socials
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/likith--d) &nbsp;
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/SaintxL) &nbsp;
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:likithsurya555@gmail.com)
+<br>
 
 </div>
 
----
-
-### 💻 Technical Skills
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
-### 📊 GitHub Stats
+
+### 🚀 About Me
+
+I'm a **Software Engineer and Full-Stack Developer** passionate about building scalable, user-focused applications. I work with **React, Next.js, Node.js, Python, databases, and cloud technologies**, while exploring **AI/ML and IoT**. I enjoy learning, building real-world solutions, and continuously improving my engineering skills. 
+
+---
+
+### 💻 Technologies
+
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=likithsurya23&theme=radical&hide_border=false&include_all_commits=false&count_private=false" height="150" />
-  
-  <img src="https://nirzak-streak-stats.vercel.app/?user=likithsurya23&theme=radical&hide_border=false" height="150" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=likithsurya23&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="150" />
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js" /></a>&nbsp;&nbsp;
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ts" /></a>&nbsp;&nbsp;
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react" /></a>&nbsp;&nbsp;
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nextjs" /></a>&nbsp;&nbsp;
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs" /></a>&nbsp;&nbsp;
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=express" /></a>&nbsp;&nbsp;
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py" /></a>&nbsp;&nbsp;
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=django" /></a>&nbsp;&nbsp;
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=flask" /></a>&nbsp;&nbsp;
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=aws" /></a>&nbsp;&nbsp;
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres" /></a>&nbsp;&nbsp;
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql" /></a>&nbsp;&nbsp;
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mongodb" /></a>&nbsp;&nbsp;
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=tailwind" /></a>&nbsp;&nbsp;
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=figma" /></a>&nbsp;&nbsp;
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java" /></a>&nbsp;&nbsp;
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=c" /></a>&nbsp;&nbsp;
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cpp" /></a>&nbsp;&nbsp;
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=githubactions" /></a>&nbsp;&nbsp;
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html" /></a>&nbsp;&nbsp;
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=css" /></a>
 
 </div>
 
 ---
-### 🏆 GitHub Trophies
+
+### 📊 GitHub Telemetry & Analytics
+
 <div align="center">
-  
-![](https://github-profile-trophy.vercel.app/?username=likithsurya23&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=likithsurya23&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" height="170" alt="Likith's GitHub Stats" />
+  &nbsp;
+  <img src="https://streak-stats.demolab.com/?user=likithsurya23&theme=tokyonight&hide_border=true" height="170" alt="Likith's Streak Stats" />
 </div>
 
----
-### ✍️ Random Dev Quote
-<div align ="center">
-  
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<br />
 
-</div>
-
----
-### 🔝 Top Contributed Repo
 <div align="center">
-  
-![](https://github-contributor-stats.vercel.app/api?username=likithsurya23&limit=5&theme=radical&combine_all_yearly_contributions=true)
-
-[![](https://visitcount.itsvg.in/api?id=likithsurya23&icon=0&color=0)](https://visitcount.itsvg.in)
-
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=likithsurya23&theme=tokyonight&layout=compact&hide_border=true" height="165" alt="Likith's Top Languages" />
 </div>
+
+---
+
+### 🏆 GitHub Trophies Showcase
+
+<div align="center">
+  <img src="https://github-trophies.vercel.app/?username=likithsurya23&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="Likith's GitHub Trophies" />
+</div>
+
+---
+
+### 💬 Daily Dev Inspiration
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Daily Dev Quote" />
+</div>
+
+<br />
+
+---
+
+<div align="center">
+  <p>⚡ <b>Profile Visitor Counter</b> ⚡</p>
+  <a href="https://github.com/likithsurya23">
+    <img src="https://komarev.com/ghpvc/?username=likithsurya23&color=00f0ff&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  </a>
+</div>
+
+
