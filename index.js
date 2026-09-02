@@ -1,3 +1,5 @@
+const fs = require('fs')
+
 const thisYear = new Date().getFullYear()
 const startTimeOfThisYear = new Date(`${thisYear}-01-01T00:00:00+00:00`).getTime()
 const endTimeOfThisYear = new Date(`${thisYear}-12-31T23:59:59+00:00`).getTime()
@@ -32,7 +34,7 @@ const readme = `\
     </a>
     &nbsp;
     <a href="https://x.com/SaintxL" target="_blank">
-      <img src="https://img.shields.io/badge/X%20/ %20Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter" />
+      <img src="https://img.shields.io/badge/X%20/%20Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter" />
     </a>
     &nbsp;
     <a href="mailto:likithsurya555@gmail.com">
@@ -133,15 +135,15 @@ const readme = `\
 ### 📊 GitHub Telemetry & Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=likithsurya23&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" height="170" alt="Likith's GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=likithsurya23&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" height="170" alt="Likith's GitHub Stats" />
   &nbsp;
-  <img src="https://nirzak-streak-stats.vercel.app/?user=likithsurya23&theme=tokyonight&hide_border=true" height="170" alt="Likith's Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=likithsurya23&theme=tokyonight&hide_border=true" height="170" alt="Likith's Streak Stats" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=likithsurya23&theme=tokyonight&layout=compact&hide_border=true" height="165" alt="Likith's Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=likithsurya23&theme=tokyonight&layout=compact&hide_border=true" height="165" alt="Likith's Top Languages" />
 </div>
 
 ---
@@ -149,7 +151,7 @@ const readme = `\
 ### 🏆 GitHub Trophies Showcase
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=likithsurya23&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="Likith's GitHub Trophies" />
+  <img src="https://github-trophies.vercel.app/?username=likithsurya23&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="Likith's GitHub Trophies" />
 </div>
 
 ---
@@ -171,4 +173,6 @@ const readme = `\
   </a>
 </div>
 `
-console.log(readme)
+
+fs.writeFileSync('README.md', readme, 'utf8')
+console.log('README.md successfully generated in UTF-8 format!')
